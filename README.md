@@ -1,4 +1,4 @@
-I'm challenging myself to clone any kind of apps in 30 days and share it for free in my Github. Feel free to access and let's grow together!
+I'm challenging myself to clone any kind of apps and share it for free in my Github. Feel free to access and let's grow together!
 
 apk: https://drive.google.com/file/d/1LDZs74BgZj2bM7DBOTSX-Mi8c-VnG2mY/view?usp=share_link
 
